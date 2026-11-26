@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="assets/logo.png?v=1" width="280" alt="toaster-breakup-01 logo">
+  <p><em>Unplugged: a smart toaster's breakup line.</em></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931" alt="Python">
+    <img src="https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931" alt="License: MIT">
+    <img src="https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931" alt="By Kontenlaris Studio">
+  </p>
+</div>
+
 # toaster-breakup-01
 
 [![make.fun · u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92](https://make.fun/badge/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92.svg)](https://make.fun/bounty/u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92?utm_source=github&utm_medium=readme&utm_campaign=u-steady-puffin-78-1922-unplugged-a-smart-toaster-s-c1514a92)
